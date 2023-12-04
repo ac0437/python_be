@@ -47,6 +47,9 @@
     - changes information on server
   - Put
     - Updated inforamtion on server
+  - URL
+  - Query parameters
+  - Resources parameters
 
 ### Tornado (applying HTTP Protocol)
 
