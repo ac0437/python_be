@@ -26,12 +26,16 @@
   - Don't need complie over and over again
 
 - Complied
+
   - Just in time compliation
   - Target specific CPU (ARM, M2, etc) and change to machine code for that CPU, after it is processed
   - Stack | Heap > Execution
     - stack
     - heap
     - execution
+
+- Raw string
+  - treats \ as a literal
 
 ### HTTP Protocol
 
@@ -50,6 +54,7 @@
   - URL
   - Query parameters
   - Resources parameters
+    - URI
 
 ### Tornado (applying HTTP Protocol)
 
